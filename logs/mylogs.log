@@ -186,3 +186,76 @@
 [INFO ] 2020-03-20 16:18:26.215 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
 [INFO ] 2020-03-20 16:18:27.621 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
 [INFO ] 2020-03-20 16:18:29.908 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-20 18:15:21.099 [main] Log - Scenario start pointWikipedia Search Functionality Title Verification
+[INFO ] 2020-03-20 18:15:31.023 [main] Log - Scenario start pointWikipedia Search Functionality Header Verification
+[INFO ] 2020-03-20 18:15:32.536 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-20 18:15:33.775 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-20 18:15:35.514 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-20 18:15:36.620 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-20 18:15:39.310 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-20 18:27:16.415 [pool-1-thread-1] Log - Scenario start pointAs a user I should be able to login using authenticated test data
+[INFO ] 2020-03-20 18:27:16.428 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality Title Verification
+[INFO ] 2020-03-20 18:27:16.435 [pool-1-thread-1] Log - Scenario start pointGoogle title verification
+[INFO ] 2020-03-20 18:27:33.316 [pool-1-thread-1] Log - Scenario start pointWhen user enters correct username and incorrect password user should see error message
+[INFO ] 2020-03-20 18:27:34.353 [pool-1-thread-1] Log - Scenario start pointUser should be able to place order with different data sets
+[INFO ] 2020-03-20 18:27:35.076 [pool-1-thread-1] Log - Scenario start pointGoogle title verification after searching a term
+[INFO ] 2020-03-20 18:27:41.345 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality Header Verification
+[INFO ] 2020-03-20 18:27:41.642 [pool-1-thread-1] Log - Scenario start pointGoogle title verification after searching a term
+[INFO ] 2020-03-20 18:27:42.808 [pool-1-thread-1] Log - Scenario start pointUser should be able to place order with different data sets
+[INFO ] 2020-03-20 18:27:46.138 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-20 18:27:48.541 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-20 18:27:50.028 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-20 18:27:51.420 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-20 18:27:53.939 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-20 18:28:34.796 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality Title Verification
+[INFO ] 2020-03-20 18:28:34.797 [pool-1-thread-1] Log - Scenario start pointGoogle title verification
+[INFO ] 2020-03-20 18:28:34.861 [pool-1-thread-1] Log - Scenario start pointAs a user I should be able to login using authenticated test data
+[INFO ] 2020-03-20 18:28:40.430 [pool-1-thread-1] Log - Scenario start pointWhen user enters correct username and incorrect password user should see error message
+[INFO ] 2020-03-20 18:28:41.317 [pool-1-thread-1] Log - Scenario start pointUser should be able to place order with different data sets
+[INFO ] 2020-03-20 18:28:47.300 [pool-1-thread-1] Log - Scenario start pointGoogle title verification after searching a term
+[INFO ] 2020-03-20 18:28:51.201 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality Header Verification
+[INFO ] 2020-03-20 18:28:52.108 [pool-1-thread-1] Log - Scenario start pointGoogle title verification after searching a term
+[INFO ] 2020-03-20 18:28:53.671 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-20 18:28:53.810 [pool-1-thread-1] Log - Scenario start pointUser should be able to place order with different data sets
+[INFO ] 2020-03-20 18:29:01.399 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-20 18:29:07.234 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-20 18:29:14.021 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-20 18:29:22.121 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-20 18:32:51.258 [pool-1-thread-1] Log - Scenario start pointGoogle title verification
+[INFO ] 2020-03-20 18:32:51.275 [pool-1-thread-1] Log - Scenario start pointAs a user I should be able to login using authenticated test data
+[INFO ] 2020-03-20 18:32:51.334 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality Title Verification
+[INFO ] 2020-03-20 18:32:58.329 [pool-1-thread-1] Log - Scenario start pointWhen user enters correct username and incorrect password user should see error message
+[INFO ] 2020-03-20 18:32:59.293 [pool-1-thread-1] Log - Scenario start pointUser should be able to place order with different data sets
+[INFO ] 2020-03-20 18:33:07.007 [pool-1-thread-1] Log - Scenario start pointGoogle title verification after searching a term
+[INFO ] 2020-03-20 18:33:10.499 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality Header Verification
+[INFO ] 2020-03-20 18:33:14.790 [pool-1-thread-1] Log - Scenario start pointGoogle title verification after searching a term
+[INFO ] 2020-03-20 18:33:16.622 [pool-1-thread-1] Log - Scenario start pointUser should be able to place order with different data sets
+[INFO ] 2020-03-20 18:33:16.783 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-20 18:33:38.383 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality Title Verification
+[INFO ] 2020-03-20 18:33:38.442 [pool-1-thread-1] Log - Scenario start pointGoogle title verification
+[INFO ] 2020-03-20 18:33:38.466 [pool-1-thread-1] Log - Scenario start pointAs a user I should be able to login using authenticated test data
+[INFO ] 2020-03-20 18:33:43.824 [pool-1-thread-1] Log - Scenario start pointWhen user enters correct username and incorrect password user should see error message
+[INFO ] 2020-03-20 18:33:44.710 [pool-1-thread-1] Log - Scenario start pointUser should be able to place order with different data sets
+[INFO ] 2020-03-20 18:33:50.287 [pool-1-thread-1] Log - Scenario start pointGoogle title verification after searching a term
+[INFO ] 2020-03-20 18:33:52.269 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality Header Verification
+[INFO ] 2020-03-20 18:33:55.143 [pool-1-thread-1] Log - Scenario start pointGoogle title verification after searching a term
+[INFO ] 2020-03-20 18:33:55.509 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-20 18:33:56.470 [pool-1-thread-1] Log - Scenario start pointUser should be able to place order with different data sets
+[INFO ] 2020-03-20 18:33:58.766 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-20 18:34:01.316 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-20 18:34:02.732 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-20 18:34:05.390 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-20 18:36:49.185 [pool-1-thread-1] Log - Scenario start pointGoogle title verification
+[INFO ] 2020-03-20 18:36:49.186 [pool-1-thread-1] Log - Scenario start pointAs a user I should be able to login using authenticated test data
+[INFO ] 2020-03-20 18:36:49.191 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality Title Verification
+[INFO ] 2020-03-20 18:36:55.115 [pool-1-thread-1] Log - Scenario start pointWhen user enters correct username and incorrect password user should see error message
+[INFO ] 2020-03-20 18:36:55.923 [pool-1-thread-1] Log - Scenario start pointUser should be able to place order with different data sets
+[INFO ] 2020-03-20 18:37:01.270 [pool-1-thread-1] Log - Scenario start pointGoogle title verification after searching a term
+[INFO ] 2020-03-20 18:37:02.712 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality Header Verification
+[INFO ] 2020-03-20 18:37:05.458 [pool-1-thread-1] Log - Scenario start pointGoogle title verification after searching a term
+[INFO ] 2020-03-20 18:37:05.785 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-20 18:37:07.127 [pool-1-thread-1] Log - Scenario start pointUser should be able to place order with different data sets
+[INFO ] 2020-03-20 18:37:07.882 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-20 18:37:10.482 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-20 18:37:11.785 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-20 18:37:14.362 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
