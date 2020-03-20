@@ -10,13 +10,6 @@ def repositoryName = "${JOB_NAME}"
 
 
 try {
-    properties([
-        parameters([
-        booleanParam(defaultValue: false,
-            description: 'Click this if you would like to deploy to latest',
-            name: 'PUSH_LATEST'
-            )])])
-
       def slavePodTemplate = """
       metadata:
         labels:
