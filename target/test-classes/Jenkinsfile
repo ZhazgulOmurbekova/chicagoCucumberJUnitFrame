@@ -47,7 +47,7 @@ try {
             - mountPath: /etc/secrets/service-account/
               name: google-service-account
         - name: fuchicorptools
-          image: fuchicorp/buildtools:mvn
+          image: fuchicorp/buildtools:maven
           imagePullPolicy: Always
           command:
           - cat
