@@ -70,7 +70,7 @@ try {
             checkout scm
           }
           stage('Build and test') {
-              sh 'mvn test'
+              sh 'mvn test --quiet'
           }
 
     
