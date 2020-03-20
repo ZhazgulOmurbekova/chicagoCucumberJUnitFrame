@@ -23,7 +23,7 @@ public class ExcelWrite {
         XSSFCell adamsCell = sheet.getRow(2).getCell(0);
         System.out.println("Before "+adamsCell);
 
-        adamsCell.setCellValue("Jazgul");
+        adamsCell.setCellValue("Nurgazy");
 
         System.out.println("after: " + adamsCell);
 
@@ -42,7 +42,7 @@ public class ExcelWrite {
         for (int i = 0; i < sheet.getPhysicalNumberOfRows(); i++) {
             if(sheet.getRow(i).getCell(0).toString().equals("Neena")){
                 System.out.println("before " + sheet.getRow(i).getCell(2));
-                sheet.getRow(i).getCell(2).setCellValue("Developer");
+                sheet.getRow(i).getCell(2).setCellValue("IT");
                 System.out.println("after " + sheet.getRow(i).getCell(02));
             }
 

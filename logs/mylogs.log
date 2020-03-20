@@ -32,3 +32,87 @@
 [INFO ] 2020-03-07 16:24:08.327 [main] Log - user on: https://dzone.com/articles/api-security-weekly-issue-71
 [INFO ] 2020-03-07 16:24:08.359 [main] Log - header 2 taken: API Security Weekly: Issue #71
 [WARN ] 2020-03-07 16:24:08.359 [main] Log - Comparing two data
+[INFO ] 2020-03-11 21:47:45.113 [main] Log - Scenario start pointWikipedia Search Functionality Title Verification
+[INFO ] 2020-03-11 21:47:49.643 [main] Log - Scenario start pointWikipedia Search Functionality Header Verification
+[INFO ] 2020-03-11 21:47:51.206 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-11 21:47:54.526 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-11 21:47:55.817 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-11 21:47:58.616 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-11 21:48:00.257 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-11 21:48:01.894 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-11 21:51:35.387 [main] Log - Scenario start pointWikipedia Search Functionality Title Verification
+[INFO ] 2020-03-11 21:51:45.437 [main] Log - Scenario start pointWikipedia Search Functionality Header Verification
+[INFO ] 2020-03-11 21:51:54.285 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-11 21:52:05.195 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-11 21:52:13.801 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-11 21:52:25.836 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-11 21:52:36.322 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-11 21:52:44.200 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-11 23:48:44.709 [main] Log - Scenario start pointWikipedia Search Functionality Title Verification
+[INFO ] 2020-03-11 23:48:52.101 [main] Log - Scenario start pointWikipedia Search Functionality Header Verification
+[INFO ] 2020-03-11 23:48:59.462 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-11 23:49:08.795 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-11 23:49:17.034 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-11 23:49:26.735 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-11 23:49:37.208 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-11 23:49:45.620 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-11 23:53:00.550 [main] Log - Scenario start pointWikipedia Search Functionality Title Verification
+[INFO ] 2020-03-11 23:53:09.765 [main] Log - Scenario start pointWikipedia Search Functionality Header Verification
+[INFO ] 2020-03-11 23:53:13.180 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-11 23:53:16.714 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-11 23:53:20.219 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-11 23:53:23.680 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-11 23:53:27.999 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-11 23:53:31.300 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-12 00:03:37.472 [main] Log - Scenario start pointgo to google
+[INFO ] 2020-03-12 00:05:35.301 [main] Log - Scenario start pointgo to google
+[INFO ] 2020-03-12 00:06:33.008 [main] Log - Scenario start pointgo to google
+[INFO ] 2020-03-12 00:08:55.182 [main] Log - Scenario start pointgo to google
+[INFO ] 2020-03-12 00:09:55.492 [main] Log - Scenario start pointgo to google
+[INFO ] 2020-03-12 00:10:24.764 [main] Log - Scenario start pointgo to google
+[INFO ] 2020-03-12 00:11:11.707 [main] Log - Scenario start pointgo to google
+[INFO ] 2020-03-12 00:12:47.385 [main] Log - Scenario start pointgo to google
+[INFO ] 2020-03-13 16:57:18.369 [pool-1-thread-1] Log - Scenario start pointAs a user I should be able to login using authenticated test data
+[INFO ] 2020-03-13 16:57:18.451 [pool-1-thread-1] Log - Scenario start pointGoogle title verification
+[INFO ] 2020-03-13 16:57:18.514 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality Title Verification
+[INFO ] 2020-03-13 16:57:26.662 [pool-1-thread-1] Log - Scenario start pointWhen user enters correct username and incorrect password user should see error message
+[INFO ] 2020-03-13 16:57:27.521 [pool-1-thread-1] Log - Scenario start pointUser should be able to place order with different data sets
+[INFO ] 2020-03-13 16:57:29.370 [pool-1-thread-1] Log - Scenario start pointGoogle title verification after searching a term
+[INFO ] 2020-03-13 16:57:32.891 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality Header Verification
+[INFO ] 2020-03-13 16:57:34.769 [pool-1-thread-1] Log - Scenario start pointGoogle title verification after searching a term
+[INFO ] 2020-03-13 16:57:35.358 [pool-1-thread-1] Log - Scenario start pointUser should be able to place order with different data sets
+[INFO ] 2020-03-13 16:57:35.904 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-13 16:57:38.770 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-13 16:57:39.739 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-13 16:57:40.970 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-13 16:57:45.679 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-13 16:57:46.556 [pool-1-thread-1] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-18 00:36:15.332 [main] Log - Scenario start pointWikipedia Search Functionality Title Verification
+[INFO ] 2020-03-18 00:36:56.331 [main] Log - Scenario start pointWikipedia Search Functionality Header Verification
+[INFO ] 2020-03-18 00:38:02.479 [main] Log - Scenario start pointWikipedia Search Functionality Title Verification
+[INFO ] 2020-03-18 00:38:21.921 [main] Log - Scenario start pointWikipedia Search Functionality Header Verification
+[INFO ] 2020-03-18 00:38:24.799 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-18 00:38:27.212 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-18 00:38:30.549 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-18 00:38:34.234 [main] Log - Scenario start pointWikipedia Search Functionality Title Verification
+[INFO ] 2020-03-18 00:38:45.350 [main] Log - Scenario start pointWikipedia Search Functionality Header Verification
+[INFO ] 2020-03-18 00:38:49.010 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-18 00:38:52.261 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-18 00:38:55.402 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-18 00:38:58.288 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-18 00:39:02.757 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-18 12:49:27.078 [main] Log - Scenario start pointWikipedia Search Functionality Title Verification
+[INFO ] 2020-03-18 12:49:45.648 [main] Log - Scenario start pointWikipedia Search Functionality Header Verification
+[INFO ] 2020-03-18 12:49:50.278 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-18 12:49:53.872 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-18 12:49:58.147 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-18 12:50:00.853 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-18 12:50:05.934 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-18 14:06:11.537 [main] Log - Scenario start pointWikipedia Search Functionality Title Verification
+[INFO ] 2020-03-18 14:06:12.642 [main] Log - Scenario start pointWikipedia Search Functionality Header Verification
+[INFO ] 2020-03-18 14:06:12.796 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-18 14:06:12.907 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-18 14:06:13.080 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-18 14:06:13.185 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-18 14:06:13.305 [main] Log - Scenario start pointWikipedia Search Functionality ImageHeader Verification
+[INFO ] 2020-03-18 14:10:58.114 [main] Log - Scenario start pointWikipedia Search Functionality Title Verification

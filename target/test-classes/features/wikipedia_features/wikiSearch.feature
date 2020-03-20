@@ -36,7 +36,7 @@ Feature: Wikipedia search functionality verifications
       | Bill Gates   | Bill Gates    |
       | Donald Trump | Donald Trump  |
       | Ricky Martin | Ricky Martin  |
-      | Esen Niiazov | Esen Niiazov  |
+#      | Esen Niiazov | Esen Niiazov  |
 
 
 

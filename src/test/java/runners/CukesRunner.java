@@ -8,11 +8,13 @@ import utilities.ExtentReport;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        plugin = {"html:target/cucumber-reports", "json:target/cukesreport.json"},
+        plugin = {"html:target/cucumber-reports",
+
+                "json:target/cukesreport.json"},
         features = "src/test/resources/features/",
         glue = "step_definitions",
         dryRun = false,
-        tags = "@dzone"
+        tags = "@wiki"
 
 )
 public class CukesRunner {
