@@ -1,0 +1,713 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 884656144,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setup(Scenario)"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "Wikipedia Search Functionality Title Verification",
+        "description": "",
+        "id": "wikipedia-search-functionality-verifications;wikipedia-search-functionality-title-verification",
+        "after": [
+          {
+            "result": {
+              "duration": 6837960,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3173716275,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User is on Wikipedia home page",
+            "match": {
+              "location": "WikiSearch_StepDefs.user_is_on_Wikipedia_home_page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 137926783,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User types \"Steve Jobs\" in the wiki search box",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Steve Jobs\"",
+                  "offset": 11
+                }
+              ],
+              "location": "WikiSearch_StepDefs.user_types_in_the_wiki_search_box(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1140416610,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User clicks wiki search button",
+            "match": {
+              "location": "WikiSearch_StepDefs.user_clicks_wiki_search_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 66760303,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User sees \"Steve Jobs\" is in the wiki title",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Steve Jobs\"",
+                  "offset": 10
+                }
+              ],
+              "location": "WikiSearch_StepDefs.user_sees_is_in_the_wiki_title(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@wiki"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 478053,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setup(Scenario)"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "Wikipedia Search Functionality Header Verification",
+        "description": "",
+        "id": "wikipedia-search-functionality-verifications;wikipedia-search-functionality-header-verification",
+        "after": [
+          {
+            "result": {
+              "duration": 281055,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 163972374,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "User is on Wikipedia home page",
+            "match": {
+              "location": "WikiSearch_StepDefs.user_is_on_Wikipedia_home_page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 64546849,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "User types \"Steve Jobs\" in the wiki search box",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Steve Jobs\"",
+                  "offset": 11
+                }
+              ],
+              "location": "WikiSearch_StepDefs.user_types_in_the_wiki_search_box(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 841594016,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "User clicks wiki search button",
+            "match": {
+              "location": "WikiSearch_StepDefs.user_clicks_wiki_search_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 58421018,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "User sees \"Steve Jobs\" in the main header",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Steve Jobs\"",
+                  "offset": 10
+                }
+              ],
+              "location": "WikiSearch_StepDefs.user_sees_in_the_main_header(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@wiki"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 451506,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setup(Scenario)"
+            }
+          }
+        ],
+        "line": 19,
+        "name": "Wikipedia Search Functionality ImageHeader Verification",
+        "description": "",
+        "id": "wikipedia-search-functionality-verifications;wikipedia-search-functionality-imageheader-verification",
+        "after": [
+          {
+            "result": {
+              "duration": 336632,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 302285345,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "User is on Wikipedia home page",
+            "match": {
+              "location": "WikiSearch_StepDefs.user_is_on_Wikipedia_home_page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 75905374,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "User types \"Steve Jobs\" in the wiki search box",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Steve Jobs\"",
+                  "offset": 11
+                }
+              ],
+              "location": "WikiSearch_StepDefs.user_types_in_the_wiki_search_box(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 837529010,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "User clicks wiki search button",
+            "match": {
+              "location": "WikiSearch_StepDefs.user_clicks_wiki_search_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 185284,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "User sees \"Steve Jobs\" in the image header",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Steve Jobs\"",
+                  "offset": 10
+                }
+              ],
+              "location": "WikiSearch_StepDefs.user_sees_in_the_image_header(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@wiki"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 375897,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setup(Scenario)"
+            }
+          }
+        ],
+        "line": 35,
+        "name": "Wikipedia Search Functionality ImageHeader Verification",
+        "description": "",
+        "id": "wikipedia-search-functionality-verifications;wikipedia-search-functionality-imageheader-verification;test-data-for-image-header-verification;2",
+        "after": [
+          {
+            "result": {
+              "duration": 276551,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 218816774,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "User is on Wikipedia home page",
+            "match": {
+              "location": "WikiSearch_StepDefs.user_is_on_Wikipedia_home_page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 94708287,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "User types \"Steve Jobs\" in the wiki search box",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Steve Jobs\"",
+                  "offset": 11
+                }
+              ],
+              "location": "WikiSearch_StepDefs.user_types_in_the_wiki_search_box(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 832696183,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "User clicks wiki search button",
+            "match": {
+              "location": "WikiSearch_StepDefs.user_clicks_wiki_search_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 74126,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "User sees \"Steve Jobs\" in the image header",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Steve Jobs\"",
+                  "offset": 10
+                }
+              ],
+              "location": "WikiSearch_StepDefs.user_sees_in_the_image_header(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@wiki"
+          },
+          {
+            "name": "@scenarioOutline"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 405848,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setup(Scenario)"
+            }
+          }
+        ],
+        "line": 36,
+        "name": "Wikipedia Search Functionality ImageHeader Verification",
+        "description": "",
+        "id": "wikipedia-search-functionality-verifications;wikipedia-search-functionality-imageheader-verification;test-data-for-image-header-verification;3",
+        "after": [
+          {
+            "result": {
+              "duration": 299479,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 311961448,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "User is on Wikipedia home page",
+            "match": {
+              "location": "WikiSearch_StepDefs.user_is_on_Wikipedia_home_page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 81183285,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "User types \"Bill Gates\" in the wiki search box",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Bill Gates\"",
+                  "offset": 11
+                }
+              ],
+              "location": "WikiSearch_StepDefs.user_types_in_the_wiki_search_box(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 712220138,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "User clicks wiki search button",
+            "match": {
+              "location": "WikiSearch_StepDefs.user_clicks_wiki_search_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 65659,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "User sees \"Bill Gates\" in the image header",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Bill Gates\"",
+                  "offset": 10
+                }
+              ],
+              "location": "WikiSearch_StepDefs.user_sees_in_the_image_header(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@wiki"
+          },
+          {
+            "name": "@scenarioOutline"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 524785,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setup(Scenario)"
+            }
+          }
+        ],
+        "line": 37,
+        "name": "Wikipedia Search Functionality ImageHeader Verification",
+        "description": "",
+        "id": "wikipedia-search-functionality-verifications;wikipedia-search-functionality-imageheader-verification;test-data-for-image-header-verification;4",
+        "after": [
+          {
+            "result": {
+              "duration": 196940,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 276998193,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "User is on Wikipedia home page",
+            "match": {
+              "location": "WikiSearch_StepDefs.user_is_on_Wikipedia_home_page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 71964780,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "User types \"Donald Trump\" in the wiki search box",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Donald Trump\"",
+                  "offset": 11
+                }
+              ],
+              "location": "WikiSearch_StepDefs.user_types_in_the_wiki_search_box(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2119301631,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "User clicks wiki search button",
+            "match": {
+              "location": "WikiSearch_StepDefs.user_clicks_wiki_search_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 51281,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "User sees \"Donald Trump\" in the image header",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Donald Trump\"",
+                  "offset": 10
+                }
+              ],
+              "location": "WikiSearch_StepDefs.user_sees_in_the_image_header(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@wiki"
+          },
+          {
+            "name": "@scenarioOutline"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 487223,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setup(Scenario)"
+            }
+          }
+        ],
+        "line": 38,
+        "name": "Wikipedia Search Functionality ImageHeader Verification",
+        "description": "",
+        "id": "wikipedia-search-functionality-verifications;wikipedia-search-functionality-imageheader-verification;test-data-for-image-header-verification;5",
+        "after": [
+          {
+            "result": {
+              "duration": 224001,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 379965150,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "User is on Wikipedia home page",
+            "match": {
+              "location": "WikiSearch_StepDefs.user_is_on_Wikipedia_home_page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 79556705,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "User types \"Ricky Martin\" in the wiki search box",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Ricky Martin\"",
+                  "offset": 11
+                }
+              ],
+              "location": "WikiSearch_StepDefs.user_types_in_the_wiki_search_box(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 582998231,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "User clicks wiki search button",
+            "match": {
+              "location": "WikiSearch_StepDefs.user_clicks_wiki_search_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 80708,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "User sees \"Ricky Martin\" in the image header",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Ricky Martin\"",
+                  "offset": 10
+                }
+              ],
+              "location": "WikiSearch_StepDefs.user_sees_in_the_image_header(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@wiki"
+          },
+          {
+            "name": "@scenarioOutline"
+          }
+        ]
+      }
+    ],
+    "name": "Wikipedia search functionality verifications",
+    "description": "",
+    "id": "wikipedia-search-functionality-verifications",
+    "keyword": "Feature",
+    "uri": "src/test/resources/features/wikipedia_features/wikiSearch.feature",
+    "tags": [
+      {
+        "name": "@wiki",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
