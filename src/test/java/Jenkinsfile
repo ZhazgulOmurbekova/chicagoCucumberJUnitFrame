@@ -84,6 +84,7 @@ try {
     
       }
     }
+  }
 } catch (e) {
     currentBuild.result = 'FAILURE'
     println("ERROR Detected:")
