@@ -70,7 +70,7 @@ try {
             checkout scm
           }
           stage('Build and test') {
-              sh 'unset JAVA_HOME && mvn test'
+              sh 'mvn test'
           }
 
     
