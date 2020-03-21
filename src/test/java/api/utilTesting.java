@@ -101,6 +101,6 @@ public class utilTesting {
     public void deleteTeacher(){
 
 
-        APIUtil.hitDELETE("/teacher/delete/2189");
+        APIUtil.hitDELETE("/teacher/delete/2498");
     }
 }
