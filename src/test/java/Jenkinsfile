@@ -111,8 +111,6 @@ try {
           stage('Build and test') {
               sh 'mvn test'
           }
-
-
       }
     }
   }

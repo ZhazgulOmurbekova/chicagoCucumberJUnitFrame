@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="chicago14-cucumber-junit" target="8" />
+      <module name="chicago14-cucumber-junit" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
